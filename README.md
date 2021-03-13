@@ -2,6 +2,7 @@ Quassel IRC
 ===============
 
 [![Quassel CI Build Status][ci-badge]][ci-status-page]
+[![CodeFactor](https://www.codefactor.io/repository/github/kadirselcuk/quassel/badge)](https://www.codefactor.io/repository/github/kadirselcuk/quassel)
 
 [Quassel IRC][web-home] is a modern, cross-platform, distributed IRC client,
 meaning that one (or multiple) client(s) can attach to and detach from a
